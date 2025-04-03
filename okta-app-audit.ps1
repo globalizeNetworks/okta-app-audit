@@ -5,7 +5,7 @@
 # Parameters - can be overridden at runtime
 param(
     [Parameter(Mandatory=$false)]
-    [string]$ConfigFile = "okta-app-audit_config.ps1",
+    [string]$ConfigFile = "./okta-app-audit_config.ps1",
     
     [Parameter(Mandatory=$false)]
     [string]$OktaDomain,
