@@ -1,4 +1,4 @@
 # Ignore configuration files with sensitive data
 okta-app-audit_config.ps1
 .env
-
+.csv
